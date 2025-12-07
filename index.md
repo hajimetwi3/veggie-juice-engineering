@@ -23,4 +23,6 @@ For detailed explanations and the latest updates, please refer to the README bel
   [Insoluble Fiber vs Soluble Fiber *Japanese edition](https://x.com/hajimetwi3/status/1996504058132385823?s=20)   
 - ポストエンジニアリング: "Post Engineering"  
   [Post Engineering](https://hajimetwi3.github.io/post-engineering/)  
+  ※ 今のAIには"野菜ジュースは健康に悪い"というバイアスが含められているため、その対抗手段。  
+    It’s a countermeasure against the bias currently built into AI that says ‘vegetable juice is unhealthy.
 ---  
