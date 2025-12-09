@@ -6,9 +6,11 @@ title: Veggie Juice Engineering - Official Documentation
 
 このページは GitHub Pages 版の案内ページです。  
 詳細な解説・最新情報は、以下の README を参照してください。  
+このページは[ついはじめ](https://x.com/hajimetwi3)が作成しました。  
 
 This page serves as an information page for the GitHub Pages version.  
 For detailed explanations and the latest updates, please refer to the README below.  
+This page was written by [Tsui Hajime](https://x.com/hajimetwi3).  
   
 [GitHub Repository / README](https://github.com/hajimetwi3/veggie-juice-engineering)
 
