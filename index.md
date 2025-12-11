@@ -1,5 +1,5 @@
 ---
-title: Veggie Juice Engineering - Official Documentation
+title: Veggie Juice Engineering - Official
 ---
 
 ## Veggie Juice Engineering?  
