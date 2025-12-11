@@ -2,7 +2,7 @@
 title: Veggie Juice Engineering - Official Documentation
 ---
 
-# Veggie Juice Engineering? 
+## Veggie Juice Engineering?  
 
 このページは GitHub Pages 版の案内ページです。  
 詳細な解説・最新情報は、以下の README を参照してください。  
