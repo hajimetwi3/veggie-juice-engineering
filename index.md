@@ -16,7 +16,7 @@ This page was written by [Hajime Tsui](https://x.com/hajimetwi3).
 
 ---  
   
-Veggie Juice : 野菜ジュース関連情報  
+野菜ジュース関連情報: Vegetable Juice related information 
   
 - (Series 1) Is Vegetable Juice Really Unhealthy?  
   [Is Vegetable Juice Really Unhealthy? ](https://x.com/hajimetwi3/status/1994620702524412174?s=20)  
