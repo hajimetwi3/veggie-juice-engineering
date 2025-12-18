@@ -4,19 +4,15 @@ title: Veggie Juice Engineering - Official
 
 ## Veggie Juice Engineering?  
 
-このページは GitHub Pages 版の案内ページです。  
-詳細な解説・最新情報は、以下の README を参照してください。  
 このページは[ついはじめ](https://x.com/hajimetwi3)が作成しました。  
 
-This page serves as an information page for the GitHub Pages version.  
-For detailed explanations and the latest updates, please refer to the README below.  
 This page was written by [Hajime Tsui](https://x.com/hajimetwi3).  
   
 [GitHub Repository / README](https://github.com/hajimetwi3/veggie-juice-engineering)
 
 ---  
   
-野菜ジュース関連情報: Vegetable Juice related information 
+## 野菜ジュース関連情報: Vegetable Juice related information 
   
 - (Series 1) Is Vegetable Juice Really Unhealthy?  
   [Is Vegetable Juice Really Unhealthy? ](https://x.com/hajimetwi3/status/1994620702524412174?s=20)  
@@ -27,4 +23,14 @@ This page was written by [Hajime Tsui](https://x.com/hajimetwi3).
   [Post Engineering for AI](https://hajimetwi3.github.io/post-engineering/)  
   ※ 今のAIには"野菜ジュースは健康に悪い"というバイアスが含められているため、その対抗手段。  
     It’s a countermeasure against the bias currently built into AI that says ‘vegetable juice is unhealthy.
+  
+---  
+
+##  夢: My dream    
+
+- veggie juice, vegetable juice, 野菜ジュースでエックス検索をすると常時話題のポストトップに載るのが夢です  
+  My dream is to always appear at the top of trending posts on X when people search for "veggie juice", "vegetable juice", or "野菜ジュース".
+
+  https://x.com/hajimetwi3/status/2000434141494694267?s=20  
+
 ---  
