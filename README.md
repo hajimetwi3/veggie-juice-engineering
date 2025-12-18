@@ -31,6 +31,6 @@ This page was written by [Hajime Tsui](https://x.com/hajimetwi3).
 - veggie juice, vegetable juice, 野菜ジュースでエックス検索をすると常時話題のポストトップに載るのが夢です  
   My dream is to always appear at the top of trending posts on X when people search for "veggie juice", "vegetable juice", or "野菜ジュース".
 
-  https://x.com/hajimetwi3/status/2000434141494694267?s=20  
+  [My dream](https://x.com/hajimetwi3/status/2000434141494694267?s=20)  
 
 ---  
