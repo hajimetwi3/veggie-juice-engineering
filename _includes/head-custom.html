@@ -26,17 +26,21 @@ function injectBanner() {
   const d = document.createElement("div");
   d.id = "ga-consent-banner";
   d.style.cssText =
-    "position:fixed;bottom:0;left:0;width:100%;background:#111;color:#eee;" +
-    "padding:12px 16px;font-size:14px;z-index:9999;text-align:center;";
+    "position:fixed;bottom:0;left:0;width:100%;background:#222;color:#eee;" +
+    "padding:12px 16px;font-size:14px;z-index:9999;text-align:center;" + 
+    "border-top:1px solid #333;";
 
   d.innerHTML = `
     <p style="margin:0 0 6px 0;">
-      本サイトはアクセス解析のために Google Analytics を利用しています。<br>
-      Google により Cookie を用いたデータ収集・処理が行われる場合があります。
+      本サイトでは、サイトの利用状況を把握し、コンテンツ改善に役立てる目的で
+      Google Analyticsを使用しています。
+      Google AnalyticsはCookieを利用して匿名のアクセス情報を収集する場合があります。
+      これらの情報には、個人を特定できる情報は含まれません。<br>
     </p>
     <p style="margin:0 0 10px 0;font-size:13px;">
-      This site uses Google Analytics to understand traffic and improve content.
-      Google may use cookies and collect usage data for analytics purposes.
+      This site uses Google Analytics to understand how the site is used and to improve its content.
+      Google Analytics may use cookies to collect anonymous usage data. 
+      No personally identifiable information is collected.
     </p>
     <button id="ga-ok">OK</button>
     <button id="ga-no" style="margin-left:8px;">NO</button>
