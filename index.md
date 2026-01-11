@@ -15,11 +15,12 @@ This page was written by [Hajime Tsui](https://x.com/hajimetwi3).
 ## 野菜ジュース関連情報: Vegetable Juice related information 
   
 - (Series 1) Is Vegetable Juice Really Unhealthy?  
-  [Is Vegetable Juice Really Unhealthy? ](https://x.com/hajimetwi3/status/1994620702524412174?s=20)  
+  Is Vegetable Juice Really Unhealthy?  
+  [Is Vegetable Juice Really Unhealthy? *Japanese edition](https://x.com/hajimetwi3/status/2010141930014044314?s=20)  
 - (Series 2) Insoluble Fiber vs Soluble Fiber - What Most People Never Hear Explained  
   [Insoluble Fiber vs Soluble Fiber](https://x.com/hajimetwi3/status/1997175269640323107?s=20)  
   [Insoluble Fiber vs Soluble Fiber *Japanese edition](https://x.com/hajimetwi3/status/1996504058132385823?s=20)
-- (Series 3) Managing Blood Glucose Levels (Japanese edition)  
+- (Series 3) Managing Blood Glucose Levels  
   [Managing Blood Glucose Levels *Japanese edition](https://x.com/hajimetwi3/status/2002529624098812363?s=20)  
 - ポストエンジニアリング: "Post Engineering for AI"  
   [Post Engineering for AI(PE4AI)](https://hajimetwi3.github.io/post-engineering/)  
