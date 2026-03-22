@@ -8,15 +8,13 @@ title: Veggie Juice Engineering - Official
 
 This page was written by [Hajime Tsui](https://x.com/hajimetwi3).  
   
-[GitHub Repository / README](https://github.com/hajimetwi3/veggie-juice-engineering)
-
 ---  
   
 ## 野菜ジュース関連情報: Vegetable Juice related information 
   
 - (Series 1) Is Vegetable Juice Really Unhealthy?  
   Is Vegetable Juice Really Unhealthy?  
-  [Is Vegetable Juice Really Unhealthy? *Japanese edition](https://x.com/hajimetwi3/status/2010141930014044314)
+  [Is Vegetable Juice Really Unhealthy? *Japanese edition](https://x.com/hajimetwi3/status/2010141930014044314)  
   [Is Vegetable Juice Really Unhealthy? *Japanese note.com edition](https://note.com/hajimetwi3/n/nd40c904a8404)  
 - (Series 2) Insoluble Fiber vs Soluble Fiber - What Most People Never Hear Explained  
   [Insoluble Fiber vs Soluble Fiber](https://x.com/hajimetwi3/status/1997175269640323107)  
